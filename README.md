@@ -13,7 +13,7 @@ After that
 
 ## Configurations for Flask Blog 
 
-For flask blog ypu have to set soem environment variables or use them directly in code (not recommended).
+For flask blog y0u have to set some environment variables or use them directly in code (not recommended).
 ```
 EMAIL_USER = 'your gmail address'
 EMAIL_PASS = 'your gmail password'
